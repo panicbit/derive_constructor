@@ -5,7 +5,7 @@ The generated trait has the same name as the enum but with the suffix `Construct
 
 ## Example
 
-```
+```rust
 use derive_constructor::Constructor;
 
 #[derive(Constructor, Debug)]
